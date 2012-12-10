@@ -1,0 +1,7 @@
+{"BANNER":[
+	{"_img":"banner1.jpg","url":"index.php", "_hash":"home"},
+	{"_img":"banner2.jpg","url":"empresa.php", "_hash":"empresa"},
+	{"_img":"banner3.jpg","url":"clientes.php", "_hash":"clientes"},
+	{"_img":"banner4.jpg","url":"produtos.php", "_hash":"produtos"}
+]
+}
